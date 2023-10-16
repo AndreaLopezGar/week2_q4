@@ -1,0 +1,19 @@
+{
+  "name": "isdi-coders-week2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "husky": "^8.0.0",
+    "eslint": "8.51.0",
+    "eslint-config-xo-nextjs": "5.2.0",
+    "sass": "1.69.3"
+  }
+}
