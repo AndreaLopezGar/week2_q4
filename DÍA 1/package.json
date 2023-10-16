@@ -11,6 +11,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "husky": "^8.0.0"
+    "husky": "^8.0.0",
+    "eslint": "8.51.0",
+    "eslint-config-xo-nextjs": "5.2.0",
+    "sass": "1.69.3"
   }
 }
